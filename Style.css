@@ -1,0 +1,30 @@
+#bg-background{
+    background-color:rgb(255, 255, 255);
+    padding:20px;
+    border-radius:10px;
+}
+#product{
+    padding:10px;
+    clear:both;
+}
+#p_list{
+    width:300px;
+    max-width:300px;
+    height:360px;
+    padding:5px;
+    border:1px solid #d14444;
+    float:left;
+    margin:15px;
+    background-color: rgb(255, 255, 255);
+}
+#p_list img{
+    height:250px; 
+    width:200px;
+}
+
+h3 {
+    text-align: left;
+    text-decoration-color: rgba(255, 255, 255, 0.75);
+    color: rgba(0, 0, 0, 0.75);
+
+}
